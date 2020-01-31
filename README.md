@@ -1,7 +1,7 @@
 # machine-learning-guide
 This repo provides a great starting resource for people who wanted to get started in the field of machine learning,the repo consist of links to best online courses, demos and books.
 
-Beginner Study Guide for Machine Learning:
+# Beginner Study Guide for Machine Learning:
 
 **Default Starter to Intermediate:**
 
@@ -79,7 +79,7 @@ Three blue one Brown: [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMo
 
 [Batch-Deeplearning.ai](https://www.deeplearning.ai/)
 
-Alternatives:
+**Alternatives:**
 
 Machine Learning Course:
 
@@ -99,7 +99,7 @@ To stay updated:
 
 [LinkinedIN](https://www.linkedin.com/in/maithreyan-kesavan-707b50169/)
 
-Youtube channel:
+**Youtube channel:**
 
 [2 minutes paper](https://www.youtube.com/user/keeroyz)
 
@@ -119,7 +119,7 @@ Youtube channel:
 
 
 
-Demos:
+**Demos:**
 
 [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com/)
 
