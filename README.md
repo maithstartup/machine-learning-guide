@@ -3,15 +3,15 @@ This repo provides a great starting resource for people who wanted to get starte
 
 Starter guide
 
+Study Guide:
+
+Beginner Guide for Machine Learning:
+
 Default Starter to Intermediate:
 
-Intro to Python Data camp
-Kaggle courses:Python,Pandas,Data visualization
-Kaggle: Intro to machine learning 
-Math Khan Academy: Linear Algebra,Calculus,Statistics and Probability.
-Machine Learning Andrew ng
-Neural Networks Three Blue One Brown
-Deeplearning.ai
+Introduction to Python Data camp
+Kaggle courses:
+Python, Pandas, Data visualization, Intro to machine learning 
 
 
 Machine Learning Glossary: https://developers.google.com/machine-learning/glossary
