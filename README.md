@@ -87,6 +87,8 @@ Machine Learning Course:
 
 [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)[l](http://course18.fast.ai/ml)
 
+[Complete ML and Data Science Course](https://www.scaler.com/data-science-course/)
+
 Deep Learning courses
 
 [http://course18.fast.ai/m](http://course18.fast.ai/ml)
