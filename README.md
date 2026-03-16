@@ -121,6 +121,88 @@ To stay updated:
 
 
 
+# AI Engineering Learning Resources (2024-2026)
+
+A curated list of the latest resources focused on building production AI systems with Large Language Models (LLMs).
+
+## Courses & Specializations
+
+**Deeplearning.ai Short Courses (Free):**
+
+[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+[Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+
+[LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+[LLMOps](https://www.deeplearning.ai/short-courses/llmops/)
+
+[Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+
+[Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+
+**Full Courses:**
+
+[Fast.ai Practical Deep Learning (Part 2 - Stable Diffusion)](https://course.fast.ai/)
+
+[Andrej Karpathy: Neural Networks Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+[Full Stack LLM Bootcamp (The Full Stack)](https://fullstackdeeplearning.com/llm-bootcamp/)
+
+[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+
+## Key Topics
+
+**Prompt Engineering:**
+
+[Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+
+[OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+
+**Retrieval Augmented Generation (RAG):**
+
+[LlamaIndex Documentation & Tutorials](https://docs.llamaindex.ai/)
+
+[LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/)
+
+**LLM Fine-tuning:**
+
+[Hugging Face PEFT (Parameter Efficient Fine-Tuning)](https://huggingface.co/docs/peft/index)
+
+[Axolotl Fine-tuning Framework](https://github.com/OpenAccess-AI-Collective/axolotl)
+
+## Blogs & News
+
+[Anthropic Research Blog](https://www.anthropic.com/research)
+
+[OpenAI Blog](https://openai.com/blog)
+
+[Hugging Face Blog](https://huggingface.co/blog)
+
+[The Batch - Deeplearning.ai Newsletter](https://www.deeplearning.ai/the-batch/)
+
+[Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/)
+
+[Lilian Weng's Blog (OpenAI)](https://lilianweng.github.io/)
+
+## YouTube Channels
+
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
+[Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+
+[AI Explained](https://www.youtube.com/@aiexplained-official)
+
+[Trelis Research](https://www.youtube.com/@TrelisResearch)
+
+## Benchmarks & Leaderboards
+
+[LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard)
+
+[Open LLM Leaderboard (Hugging Face)](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+---
+
 **Demos:**
 
 [https://quickdraw.withgoogle.com/](https://quickdraw.withgoogle.com/)
